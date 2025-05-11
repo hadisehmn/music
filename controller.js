@@ -13,6 +13,7 @@ app.get('/music/:search_term', async (req, res) => {
     } catch (error) {
         console.log(error);
         res.statusCode = 400
+        console.log('test')
         return res.end()    
     }
 })
