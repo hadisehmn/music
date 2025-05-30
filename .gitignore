@@ -1,25 +1,18 @@
-# پوشه node_modules چون خیلی حجیمه و با npm install قابل بازسازی هست
 node_modules/
 
-# فایل‌های لاگ
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# فایل تنظیمات محیطی (اطلاعات حساس)
 .env
 JWT_SECRET=your_jwt_secret_here
 
-# خروجی‌های build
 dist/
 build/
 
-# پوشه cache ابزارها
 .cache/
 
-# خروجی coverage برای تست‌ها
 coverage/
 
-# فایل‌های سیستم‌عامل
 .DS_Store
 Thumbs.db
