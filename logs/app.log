@@ -1,0 +1,286 @@
+[2025-05-28T20:57:49.810Z] INFO: 🎵 Music app server started successfully on port 9090
+[2025-05-28T21:00:12.099Z] INFO: 🎵 Music app server started successfully on port 9090
+[2025-05-28T21:00:23.958Z] ERROR: JWT verification failed: secret or public key must be provided
+[2025-05-29T20:55:38.695Z] INFO: Server is running on port 9090
+[2025-05-29T20:57:18.892Z] ERROR: JWT verification failed: secret or public key must be provided
+[2025-05-29T20:57:26.995Z] INFO: POST /auth/login attempt for username: hadisak
+[2025-05-29T20:57:26.995Z] INFO: Login attempt for user: hadisak
+[2025-05-29T20:57:27.010Z] WARN: Login failed: user not found for hadisak
+[2025-05-29T20:57:27.010Z] ERROR: POST /auth/login failed: user not found
+[2025-05-29T20:59:07.996Z] INFO: POST /auth/signup attempt for username: hadisak
+[2025-05-29T20:59:07.998Z] ERROR: POST /auth/signup failed: service.Signup is not a function
+[2025-05-29T20:59:35.080Z] INFO: POST /auth/signup attempt for username: hadisak
+[2025-05-29T20:59:35.081Z] ERROR: POST /auth/signup failed: service.Signup is not a function
+[2025-05-29T21:00:09.680Z] INFO: POST /auth/signup attempt for username: hadisak
+[2025-05-29T21:00:09.690Z] ERROR: POST /auth/signup failed: service.Signup is not a function
+[2025-05-29T21:05:21.345Z] INFO: POST /auth/login attempt for username: hadisak
+[2025-05-29T21:05:21.347Z] INFO: Login attempt for user: hadisak
+[2025-05-29T21:05:21.356Z] WARN: Login failed: user not found for hadisak
+[2025-05-29T21:05:21.358Z] ERROR: POST /auth/login failed: user not found
+[2025-05-29T21:29:50.627Z] INFO: Server is running on port 9090
+[2025-05-29T21:29:58.081Z] INFO: POST /auth/signup attempt for username: hadisak
+[2025-05-29T21:29:58.081Z] ERROR: Signup failed: this.data.FindUserByUsernameOrEmail is not a function
+[2025-05-29T21:29:58.082Z] ERROR: POST /auth/signup failed: this.data.FindUserByUsernameOrEmail is not a function
+[2025-05-29T21:31:51.740Z] INFO: Server is running on port 9090
+[2025-05-29T21:31:54.004Z] INFO: POST /auth/signup attempt for username: hadisak
+[2025-05-29T21:31:54.063Z] INFO: New user created: undefined
+[2025-05-29T21:31:54.064Z] INFO: POST /auth/signup successful for username: hadisak
+[2025-05-29T21:32:29.764Z] INFO: POST /auth/signup attempt for username: hadisak
+[2025-05-29T21:32:29.801Z] INFO: New user created: undefined
+[2025-05-29T21:32:29.803Z] INFO: POST /auth/signup successful for username: hadisak
+[2025-05-29T21:35:14.085Z] INFO: Server is running on port 9090
+[2025-05-29T21:35:17.217Z] INFO: POST /auth/signup attempt for username: hadisak
+[2025-05-29T21:35:17.266Z] INFO: New user created: undefined
+[2025-05-29T21:35:17.267Z] INFO: POST /auth/signup successful for username: hadisak
+[2025-05-29T21:35:22.875Z] INFO: POST /auth/signup attempt for username: hadisak
+[2025-05-29T21:35:22.912Z] INFO: New user created: undefined
+[2025-05-29T21:35:22.912Z] INFO: POST /auth/signup successful for username: hadisak
+[2025-05-29T21:35:25.268Z] INFO: POST /auth/login attempt for username: hadisak
+[2025-05-29T21:35:25.269Z] INFO: Login attempt for user: hadisak
+[2025-05-29T21:35:25.310Z] INFO: User 1 logged in successfully
+[2025-05-29T21:35:25.311Z] INFO: POST /auth/login successful for username: hadisak
+[2025-05-29T21:35:30.146Z] ERROR: JWT verification failed: secret or public key must be provided
+[2025-05-29T21:37:21.133Z] ERROR: JWT verification failed: secret or public key must be provided
+[2025-05-29T21:37:24.629Z] INFO: POST /auth/login attempt for username: hadisak
+[2025-05-29T21:37:24.630Z] INFO: Login attempt for user: hadisak
+[2025-05-29T21:37:24.668Z] INFO: User 1 logged in successfully
+[2025-05-29T21:37:24.668Z] INFO: POST /auth/login successful for username: hadisak
+[2025-05-29T21:37:41.645Z] ERROR: JWT verification failed: secret or public key must be provided
+[2025-05-29T21:37:45.311Z] ERROR: JWT verification failed: secret or public key must be provided
+[2025-05-29T21:38:00.053Z] ERROR: JWT verification failed: secret or public key must be provided
+[2025-05-29T21:38:16.261Z] ERROR: JWT verification failed: secret or public key must be provided
+[2025-05-29T21:38:18.775Z] INFO: POST /auth/login attempt for username: hadisak
+[2025-05-29T21:38:18.776Z] INFO: Login attempt for user: hadisak
+[2025-05-29T21:38:18.814Z] INFO: User 1 logged in successfully
+[2025-05-29T21:38:18.814Z] INFO: POST /auth/login successful for username: hadisak
+[2025-05-29T21:38:33.332Z] ERROR: JWT verification failed: secret or public key must be provided
+[2025-05-29T21:38:44.566Z] INFO: Server is running on port 9090
+[2025-05-29T21:38:51.576Z] INFO: POST /auth/login attempt for username: hadisak
+[2025-05-29T21:38:51.576Z] INFO: Login attempt for user: hadisak
+[2025-05-29T21:38:51.627Z] INFO: User 1 logged in successfully
+[2025-05-29T21:38:51.627Z] INFO: POST /auth/login successful for username: hadisak
+[2025-05-29T21:39:00.315Z] ERROR: JWT verification failed: secret or public key must be provided
+[2025-05-29T21:39:48.432Z] INFO: POST /auth/signup attempt for username: hadisak
+[2025-05-29T21:39:48.470Z] INFO: New user created: undefined
+[2025-05-29T21:39:48.470Z] INFO: POST /auth/signup successful for username: hadisak
+[2025-05-29T21:39:53.160Z] INFO: POST /auth/login attempt for username: hadisak
+[2025-05-29T21:39:53.161Z] INFO: Login attempt for user: hadisak
+[2025-05-29T21:39:53.207Z] INFO: User 1 logged in successfully
+[2025-05-29T21:39:53.207Z] INFO: POST /auth/login successful for username: hadisak
+[2025-05-29T21:39:54.160Z] INFO: POST /auth/login attempt for username: hadisak
+[2025-05-29T21:39:54.161Z] INFO: Login attempt for user: hadisak
+[2025-05-29T21:39:54.197Z] INFO: User 1 logged in successfully
+[2025-05-29T21:39:54.197Z] INFO: POST /auth/login successful for username: hadisak
+[2025-05-29T21:39:57.330Z] INFO: POST /auth/login attempt for username: hadisak
+[2025-05-29T21:39:57.330Z] INFO: Login attempt for user: hadisak
+[2025-05-29T21:39:57.367Z] INFO: User 1 logged in successfully
+[2025-05-29T21:39:57.367Z] INFO: POST /auth/login successful for username: hadisak
+[2025-05-29T21:40:23.138Z] ERROR: JWT verification failed: secret or public key must be provided
+[2025-05-29T21:42:35.076Z] INFO: Server is running on port 9090
+[2025-05-29T21:42:39.616Z] ERROR: JWT verification failed: secret or public key must be provided
+[2025-05-29T21:43:00.051Z] INFO: Server is running on port 9090
+[2025-05-29T21:43:02.584Z] ERROR: JWT verification failed: secret or public key must be provided
+[2025-05-29T21:47:25.031Z] INFO: Server is running on port 9090
+[2025-05-29T21:47:27.696Z] INFO: JWT verified for user ID: 1
+[2025-05-29T21:47:27.697Z] INFO: GET /music with search_term=""
+[2025-05-29T21:47:27.697Z] INFO: Searching artists/music with term: ""
+[2025-05-29T21:47:27.698Z] ERROR: Error searching music: this.data.Search_Between_Artists_Or_Music is not a function
+[2025-05-29T21:47:27.699Z] ERROR: GET /music failed: this.data.Search_Between_Artists_Or_Music is not a function
+[2025-05-29T21:52:37.609Z] INFO: Server is running on port 9090
+[2025-05-29T21:52:40.015Z] INFO: JWT verified for user ID: 1
+[2025-05-29T21:52:40.015Z] INFO: GET /music with search_term=""
+[2025-05-29T21:52:40.016Z] INFO: Searching artists/music with term: ""
+[2025-05-29T21:52:40.016Z] ERROR: Error searching music: this.data.Search_Between_Artists_Or_Music is not a function
+[2025-05-29T21:52:40.017Z] ERROR: GET /music failed: this.data.Search_Between_Artists_Or_Music is not a function
+[2025-05-29T21:53:26.840Z] INFO: Server is running on port 9090
+[2025-05-29T21:53:30.053Z] INFO: JWT verified for user ID: 1
+[2025-05-29T21:53:30.055Z] ERROR: GET /music failed: search_term is not defined
+[2025-05-29T21:54:24.961Z] INFO: Server is running on port 9090
+[2025-05-29T21:54:27.632Z] INFO: JWT verified for user ID: 1
+[2025-05-29T21:54:27.633Z] ERROR: GET /music failed: search_term is not defined
+[2025-05-29T21:56:09.104Z] INFO: Server is running on port 9090
+[2025-05-29T21:56:12.743Z] INFO: JWT verified for user ID: 1
+[2025-05-29T21:56:12.743Z] ERROR: GET /music failed: search_term is not defined
+[2025-05-29T21:58:39.373Z] INFO: Server is running on port 9090
+[2025-05-29T21:58:41.821Z] INFO: JWT verified for user ID: 1
+[2025-05-29T21:58:41.822Z] ERROR: GET /music failed: search_term is not defined
+[2025-05-29T21:59:23.372Z] INFO: Server is running on port 9090
+[2025-05-29T21:59:25.847Z] INFO: JWT verified for user ID: 1
+[2025-05-29T21:59:25.847Z] INFO: GET /music with search_term=""
+[2025-05-29T21:59:25.848Z] INFO: Searching artists/music with term: ""
+[2025-05-29T21:59:25.848Z] ERROR: Error searching music: this.data.SearchBetweenArtistsOr_Music is not a function
+[2025-05-29T21:59:25.849Z] ERROR: GET /music failed: this.data.SearchBetweenArtistsOr_Music is not a function
+[2025-05-29T22:02:56.037Z] INFO: Server is running on port 9090
+[2025-05-29T22:02:59.496Z] INFO: JWT verified for user ID: 1
+[2025-05-29T22:02:59.497Z] INFO: GET /music with search_term=""
+[2025-05-29T22:02:59.497Z] INFO: Searching artists/music with term: ""
+[2025-05-29T22:02:59.498Z] ERROR: Error searching music: this.data.SearchBetweenArtistsOrMusic is not a function
+[2025-05-29T22:02:59.498Z] ERROR: GET /music failed: this.data.SearchBetweenArtistsOrMusic is not a function
+[2025-05-29T22:03:35.179Z] INFO: Server is running on port 9090
+[2025-05-29T22:03:38.261Z] INFO: JWT verified for user ID: 1
+[2025-05-29T22:03:38.261Z] INFO: GET /music with search_term=""
+[2025-05-29T22:03:38.261Z] INFO: Searching artists/music with term: ""
+[2025-05-29T22:03:50.060Z] ERROR: JWT verification failed: jwt expired
+[2025-05-29T22:03:53.512Z] INFO: POST /auth/login attempt for username: hadisak
+[2025-05-29T22:03:53.512Z] INFO: Login attempt for user: hadisak
+[2025-05-29T22:03:53.556Z] INFO: User 1 logged in successfully
+[2025-05-29T22:03:53.556Z] INFO: POST /auth/login successful for username: hadisak
+[2025-05-29T22:04:05.533Z] INFO: JWT verified for user ID: 1
+[2025-05-29T22:04:05.533Z] INFO: GET /playlists by user 1 with search "pis"
+[2025-05-29T22:04:05.534Z] ERROR: GET /playlists failed: service.PlaylistByPlaylistNameAndSong is not a function
+[2025-05-29T22:04:55.047Z] INFO: Server is running on port 9090
+[2025-05-29T22:04:58.251Z] INFO: JWT verified for user ID: 1
+[2025-05-29T22:04:58.252Z] INFO: GET /playlists by user 1 with search "pis"
+[2025-05-29T22:04:58.252Z] ERROR: GET /playlists failed: service.PlaylistByPlaylistNameAndSong is not a function
+[2025-05-29T22:07:52.755Z] INFO: Server is running on port 9090
+[2025-05-29T22:07:56.504Z] INFO: JWT verified for user ID: 1
+[2025-05-29T22:07:56.505Z] INFO: GET /playlists by user 1 with search "pis"
+[2025-05-29T22:07:56.505Z] INFO: Searching playlists with term "1" for user: pis
+[2025-05-29T22:28:05.241Z] INFO: Server is running on port 9090
+[2025-05-29T22:30:14.291Z] WARN: Access denied: No token provided
+[2025-05-29T22:30:48.471Z] INFO: JWT verified for user ID: 1
+[2025-05-29T22:30:48.472Z] INFO: GET /playlists by user 1
+[2025-05-29T22:30:48.473Z] INFO: Fetching playlist with ID: 1
+[2025-05-29T22:33:37.443Z] WARN: Access denied: No token provided
+[2025-05-29T22:34:03.245Z] INFO: JWT verified for user ID: 1
+[2025-05-29T22:34:03.248Z] ERROR: DELETE /playlists failed: Cannot convert object to primitive value
+[2025-05-29T22:35:29.052Z] INFO: JWT verified for user ID: 1
+[2025-05-29T22:35:29.053Z] ERROR: DELETE /playlists failed: Cannot convert object to primitive value
+[2025-05-29T22:35:33.835Z] INFO: Server is running on port 9090
+[2025-05-29T22:36:53.030Z] ERROR: JWT verification failed: jwt expired
+[2025-05-29T22:37:49.456Z] ERROR: JWT verification failed: jwt expired
+[2025-05-29T22:37:55.012Z] INFO: POST /auth/login attempt for username: hadisak
+[2025-05-29T22:37:55.013Z] INFO: Login attempt for user: hadisak
+[2025-05-29T22:37:55.087Z] INFO: User 1 logged in successfully
+[2025-05-29T22:37:55.088Z] INFO: POST /auth/login successful for username: hadisak
+[2025-05-29T22:38:12.280Z] ERROR: JWT verification failed: invalid signature
+[2025-05-29T22:43:03.487Z] INFO: POST /auth/signup attempt for username: hadisak
+[2025-05-29T22:43:03.554Z] INFO: New user created: undefined
+[2025-05-29T22:43:03.555Z] INFO: POST /auth/signup successful for username: hadisak
+[2025-05-29T22:43:17.919Z] INFO: POST /auth/login attempt for username: hadisak
+[2025-05-29T22:43:17.919Z] INFO: Login attempt for user: hadisak
+[2025-05-29T22:43:17.970Z] INFO: User 1 logged in successfully
+[2025-05-29T22:43:17.970Z] INFO: POST /auth/login successful for username: hadisak
+[2025-05-29T22:43:34.578Z] INFO: JWT verified for user ID: 1
+[2025-05-29T22:43:34.579Z] INFO: PATCH /playlists rename 1 to "love" by user 1
+[2025-05-29T22:43:34.580Z] INFO: Updating playlist name to "love" for playlist 1, user 1
+[2025-05-29T22:43:57.121Z] ERROR: JWT verification failed: jwt expired
+[2025-05-29T22:44:03.136Z] INFO: JWT verified for user ID: 1
+[2025-05-29T22:44:03.137Z] INFO: PATCH /playlists/add-music: Add music 2 to playlist 1 by user 1
+[2025-05-29T22:44:03.137Z] INFO: Adding music ID 2 to playlist 1 for user 1
+[2025-05-29T22:45:21.501Z] INFO: JWT verified for user ID: 1
+[2025-05-29T22:45:21.501Z] INFO: PATCH /playlists/add-music: Add music 2 to playlist 1 by user 1
+[2025-05-29T22:45:21.501Z] INFO: Adding music ID 2 to playlist 1 for user 1
+[2025-05-29T22:49:50.684Z] INFO: POST /auth/login attempt for username: hadisak
+[2025-05-29T22:49:50.686Z] INFO: Login attempt for user: hadisak
+[2025-05-29T22:49:50.739Z] INFO: User 1 logged in successfully
+[2025-05-29T22:49:50.743Z] INFO: POST /auth/login successful for username: hadisak
+[2025-05-29T22:50:04.014Z] INFO: JWT verified for user ID: 1
+[2025-05-29T22:50:04.023Z] INFO: DELETE /music/playlist/1 by user 1
+[2025-05-29T22:50:04.024Z] INFO: Deleting music ID 1 from user 1's playlist
+[2025-05-29T22:50:04.036Z] ERROR: Failed to delete music ID 1 from playlist for user 1: SQLITE_ERROR: near "music_id": syntax error
+[2025-05-29T22:50:04.036Z] ERROR: DELETE /music/playlist failed: SQLITE_ERROR: near "music_id": syntax error
+[2025-05-29T22:51:37.298Z] INFO: Server is running on port 9090
+[2025-05-29T22:51:40.256Z] INFO: JWT verified for user ID: 1
+[2025-05-29T22:51:40.257Z] INFO: DELETE /music/playlist/1 by user 1
+[2025-05-29T22:51:40.257Z] INFO: Deleting music ID 1 from user 1's playlist
+[2025-05-29T22:52:40.768Z] INFO: POST /auth/login attempt for username: hadisak
+[2025-05-29T22:52:40.769Z] INFO: Login attempt for user: hadisak
+[2025-05-29T22:52:40.817Z] INFO: User 1 logged in successfully
+[2025-05-29T22:52:40.817Z] INFO: POST /auth/login successful for username: hadisak
+[2025-05-29T22:53:01.965Z] INFO: JWT verified for user ID: 1
+[2025-05-29T22:53:01.965Z] INFO: DELETE /music/music/2 by user 1
+[2025-05-29T22:53:01.966Z] INFO: Deleting music ID 2 for user 1
+[2025-05-29T22:53:01.969Z] ERROR: Failed to delete music ID 2 for user 1: SQLITE_ERROR: near "id": syntax error
+[2025-05-29T22:53:01.969Z] ERROR: DELETE /music/music failed: SQLITE_ERROR: near "id": syntax error
+[2025-05-29T22:55:08.588Z] INFO: Server is running on port 9090
+[2025-05-29T22:55:11.660Z] INFO: JWT verified for user ID: 1
+[2025-05-29T22:55:11.660Z] INFO: DELETE /music/music/2 by user 1
+[2025-05-29T22:55:11.661Z] INFO: Deleting music ID 2 for user 1
+[2025-05-29T22:55:11.672Z] ERROR: Failed to delete music ID 2 for user 1: SQLITE_ERROR: no such column: user_id
+[2025-05-29T22:55:11.672Z] ERROR: DELETE /music/music failed: SQLITE_ERROR: no such column: user_id
+[2025-05-29T22:55:41.705Z] INFO: Server is running on port 9090
+[2025-05-29T22:55:44.479Z] INFO: JWT verified for user ID: 1
+[2025-05-29T22:55:44.479Z] INFO: DELETE /music/music/2 by user 1
+[2025-05-29T22:55:44.480Z] INFO: Deleting music ID 2 for user 1
+[2025-05-29T22:55:44.485Z] ERROR: Failed to delete music ID 2 for user 1: SQLITE_RANGE: column index out of range
+[2025-05-29T22:55:44.486Z] ERROR: DELETE /music/music failed: SQLITE_RANGE: column index out of range
+[2025-05-29T22:57:04.828Z] INFO: JWT verified for user ID: 1
+[2025-05-29T22:57:04.832Z] INFO: DELETE /music/music/2 by user 1
+[2025-05-29T22:57:04.836Z] INFO: Deleting music ID 2 for user 1
+[2025-05-29T22:57:04.849Z] ERROR: Failed to delete music ID 2 for user 1: SQLITE_RANGE: column index out of range
+[2025-05-29T22:57:04.849Z] ERROR: DELETE /music/music failed: SQLITE_RANGE: column index out of range
+[2025-05-29T22:58:40.420Z] INFO: Server is running on port 9090
+[2025-05-29T22:58:42.995Z] INFO: JWT verified for user ID: 1
+[2025-05-29T22:58:42.995Z] INFO: DELETE /music/music/2 by user 1
+[2025-05-29T22:58:42.996Z] INFO: Deleting music ID 2 for user 1
+[2025-05-29T23:02:01.729Z] INFO: Server is running on port 9090
+[2025-05-29T23:05:08.892Z] INFO: Server is running on port 9090
+[2025-05-29T23:08:17.236Z] INFO: Server is running on port 9090
+[2025-05-29T23:08:19.146Z] WARN: Access denied: No token provided
+[2025-05-29T23:08:23.536Z] INFO: POST /auth/login attempt for username: hadisak
+[2025-05-29T23:08:23.536Z] INFO: Login attempt for user: hadisak
+[2025-05-29T23:08:23.591Z] INFO: User 1 logged in successfully
+[2025-05-29T23:08:23.591Z] INFO: POST /auth/login successful for username: hadisak
+[2025-05-29T23:08:43.454Z] INFO: JWT verified for user ID: 1
+[2025-05-29T23:08:43.454Z] INFO: DELETE /playlists/1 by user 1
+[2025-05-29T23:08:43.455Z] INFO: Deleting playlist 1 for user 1
+[2025-05-29T23:27:37.854Z] INFO: Server is running on port 9090
+[2025-05-29T23:36:10.603Z] INFO: Server is running on port 9090
+[2025-05-29T23:36:13.018Z] INFO: POST /auth/login attempt for username: hadisak
+[2025-05-29T23:36:13.018Z] ERROR: POST /auth/login failed: service.login is not a function
+[2025-05-29T23:40:08.783Z] INFO: Server is running on port 9090
+[2025-05-29T23:40:12.132Z] INFO: POST /auth/login attempt for username: hadisak
+[2025-05-29T23:40:12.133Z] ERROR: POST /auth/login failed: service.login is not a function
+[2025-05-29T23:43:49.791Z] INFO: Server is running on port 9090
+[2025-05-29T23:43:53.152Z] INFO: POST /auth/login attempt for username: hadisak
+[2025-05-29T23:43:53.153Z] ERROR: POST /auth/login failed: service.login is not a function
+[2025-05-29T23:46:44.812Z] INFO: Server is running on port 9090
+[2025-05-29T23:46:48.183Z] INFO: POST /auth/login attempt for username: hadisak
+[2025-05-29T23:46:48.184Z] ERROR: POST /auth/login failed: service.login is not a function
+[2025-05-29T23:49:06.979Z] INFO: Server is running on port 9090
+[2025-05-29T23:49:09.646Z] INFO: POST /auth/login attempt for username: hadisak
+[2025-05-29T23:49:09.646Z] INFO: Login attempt for user: hadisak
+[2025-05-29T23:49:09.647Z] ERROR: POST /auth/login failed: this.data.FindByUsernameOrEmail is not a function
+[2025-05-29T23:50:49.844Z] INFO: Server is running on port 9090
+[2025-05-29T23:50:52.571Z] INFO: POST /auth/login attempt for username: hadisak
+[2025-05-29T23:50:52.572Z] INFO: Login attempt for user: hadisak
+[2025-05-29T23:50:52.573Z] ERROR: POST /auth/login failed: this.data.findUser is not a function
+[2025-05-29T23:58:05.626Z] INFO: Server is running on port 9090
+[2025-05-29T23:58:08.371Z] INFO: POST /auth/login attempt for username: hadisak
+[2025-05-29T23:58:08.372Z] INFO: Login attempt for user: hadisak
+[2025-05-29T23:58:08.373Z] ERROR: POST /auth/login failed: this.data.findUser is not a function
+[2025-05-30T00:01:16.355Z] INFO: Server is running on port 9090
+[2025-05-30T00:01:18.586Z] INFO: POST /auth/login attempt for username: hadisak
+[2025-05-30T00:01:18.586Z] INFO: Login attempt for user: hadisak
+[2025-05-30T00:01:18.622Z] INFO: User 1 logged in successfully
+[2025-05-30T00:01:18.622Z] ERROR: POST /auth/login failed: token is not defined
+[2025-05-30T00:02:17.249Z] INFO: Server is running on port 9090
+[2025-05-30T00:02:19.918Z] INFO: POST /auth/login attempt for username: hadisak
+[2025-05-30T00:02:19.918Z] INFO: Login attempt for user: hadisak
+[2025-05-30T00:02:19.952Z] INFO: User 1 logged in successfully
+[2025-05-30T00:02:19.952Z] INFO: POST /auth/login successful for username: hadisak
+[2025-05-30T00:02:24.598Z] INFO: POST /auth/login attempt for username: hadisak
+[2025-05-30T00:02:24.598Z] INFO: Login attempt for user: hadisak
+[2025-05-30T00:02:24.627Z] INFO: User 1 logged in successfully
+[2025-05-30T00:02:24.627Z] INFO: POST /auth/login successful for username: hadisak
+[2025-05-30T00:02:25.630Z] INFO: POST /auth/login attempt for username: hadisak
+[2025-05-30T00:02:25.630Z] INFO: Login attempt for user: hadisak
+[2025-05-30T00:02:25.661Z] INFO: User 1 logged in successfully
+[2025-05-30T00:02:25.662Z] INFO: POST /auth/login successful for username: hadisak
+[2025-05-30T00:02:26.593Z] INFO: POST /auth/login attempt for username: hadisak
+[2025-05-30T00:02:26.594Z] INFO: Login attempt for user: hadisak
+[2025-05-30T00:02:26.625Z] INFO: User 1 logged in successfully
+[2025-05-30T00:02:26.625Z] INFO: POST /auth/login successful for username: hadisak
+[2025-05-30T00:04:00.698Z] INFO: POST /auth/login attempt for username: hadisak
+[2025-05-30T00:04:00.699Z] INFO: Login attempt for user: hadisak
+[2025-05-30T00:04:00.728Z] INFO: User 1 logged in successfully
+[2025-05-30T00:04:00.729Z] INFO: POST /auth/login successful for username: hadisak
+[2025-05-30T00:04:07.256Z] INFO: POST /auth/login attempt for username: hadisak
+[2025-05-30T00:04:07.257Z] INFO: Login attempt for user: hadisak
+[2025-05-30T00:04:07.293Z] INFO: User 1 logged in successfully
+[2025-05-30T00:04:07.293Z] INFO: POST /auth/login successful for username: hadisak
+[2025-05-30T00:04:12.966Z] INFO: POST /auth/login attempt for username: hadisak
+[2025-05-30T00:04:12.966Z] INFO: Login attempt for user: hadisak
+[2025-05-30T00:04:12.998Z] INFO: User 1 logged in successfully
+[2025-05-30T00:04:12.998Z] INFO: POST /auth/login successful for username: hadisak
